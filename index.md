@@ -1,5 +1,6 @@
 ---
 title: Home
+theme: minima
 ---
 # Rodrigo Riveros-Vanegas - *Devops & Software Architect* 
 
