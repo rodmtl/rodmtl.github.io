@@ -40,8 +40,10 @@ BPMN, e-Commerce
 
 ### Digital Copy (Updated 2021)
 
-English Version | French Version
+[English Version](content/CV_RR_ENG_2021.pdf) | [French Version](content/CV_RR_FRA_2021.pdf)
 
 ## Contact
 
-- [LinkedIn](https://ca.linkedin.com/in/RodMTL) | [Email](mailto:rodrigoriveros99@gmail.com)
+[LinkedIn](https://ca.linkedin.com/in/RodMTL) | [Email](mailto:rodrigoriveros99@gmail.com)
+
+Written by [Rod](http://rodmtl.github.io/) Inspired by *Joaquin* & *Gabriel*.
