@@ -23,7 +23,7 @@ BPMN, e-Commerce
 ## Employment History
 
 - **Marketing Express**, Montreal, Canada
-  - CTO & Co-founder 
+  - CTO & Co-founder. *(2024-Present)*
 - **Fujitsu Consulting Canada**, Montreal, Canada
   - DevOps & Software Architect. *(2022-Present)*
   - Senior .Net Consultant. *(2016-2022)*
