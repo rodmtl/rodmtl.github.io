@@ -2,11 +2,13 @@
 title: Home
 theme: minima
 ---
-# Rodrigo Riveros-Vanegas - *Devops & Software Architect* 
+# Rodrigo Riveros-Vanegas - *CTO - Devops & Software Architect* 
 
-Rodrigo is a Colombian Systems Engineer with over 12 years of experience working with Microsoft .NET technologies, BPM systems, and e-commerce platforms. From a young age, he's been passionate about computers and software. Recently, he has been focused on building cloud-based web applications in Azure and applying agile methodologies, with his latest role as a DevOps Architect, where he's been responsible for streamlining infrastructure and deployment processes. He also has strong skills in database development, including MSSQL and Oracle. A self-driven professional, Rodrigo is always striving to deliver high-quality software with a focus on performance and usability.
+Rodrigo is a Colombian Systems Engineer with over 12 years of experience in Microsoft .NET technologies, BPM systems, and e-commerce platforms. His passion for computers and software began early, and recently he has specialized in developing cloud-based web applications on Azure and implementing agile methodologies. In his latest role as a DevOps Architect, he's been responsible for optimizing infrastructure and deployment processes. Rodrigo also has strong database development skills, including expertise in MSSQL and Oracle. He’s a self-driven professional focused on delivering high-performance, user-friendly software solutions.
 
-A proud father and husband, he moved to Montreal in 2014.
+Recently, he teamed up with his neighbors to launch [marketing.express](https://marketing.express/), a local business marketing tool that operates on autopilot.
+
+A proud father and husband, Rodrigo relocated to Montreal in 2014.
 
 ## Areas of Expertise
 
@@ -20,6 +22,8 @@ BPMN, e-Commerce
 
 ## Employment History
 
+- **Marketing Express**, Montreal, Canada
+  - CTO & Co-founder 
 - **Fujitsu Consulting Canada**, Montreal, Canada
   - DevOps & Software Architect. *(2022-Present)*
   - Senior .Net Consultant. *(2016-2022)*
@@ -39,9 +43,7 @@ BPMN, e-Commerce
 
 ## Curriculum
 
-### Digital Copy (Updated 2021)
-
-[English Version](content/CV_RR_ENG_2021.pdf) | [French Version](content/CV_RR_FRA_2021.pdf)
+Send me an [email](mailto:rodrigoriveros99@gmail.com) if you'd like a copy of my up-to-date CV in French or English.
 
 ## Contact
 
